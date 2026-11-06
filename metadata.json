@@ -1,0 +1,6 @@
+{
+  "name": "AgriConnect – Smart Agriculture & Market Intelligence",
+  "description": "Centralized smart agriculture platform for Indian farmers: real-time weather alerts, mandi market prices, crop recommendations, farm management, and expert advisory.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
